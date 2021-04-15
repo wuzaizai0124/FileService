@@ -1,0 +1,15 @@
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\bin\Debug\netstandard2.0\Risfond.File.Service.deps.json
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\bin\Debug\netstandard2.0\Risfond.File.Service.dll
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\bin\Debug\netstandard2.0\Risfond.File.Service.pdb
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\bin\Debug\netstandard2.0\Risfond.File.Infrastructure.dll
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\bin\Debug\netstandard2.0\Risfond.File.Model.dll
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\bin\Debug\netstandard2.0\Risfond.File.Infrastructure.pdb
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\bin\Debug\netstandard2.0\Risfond.File.Model.pdb
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\obj\Debug\netstandard2.0\Risfond.File.Service.csprojAssemblyReference.cache
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\obj\Debug\netstandard2.0\Risfond.File.Service.csproj.CoreCompileInputs.cache
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\obj\Debug\netstandard2.0\Risfond.File.Service.AssemblyInfoInputs.cache
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\obj\Debug\netstandard2.0\Risfond.File.Service.AssemblyInfo.cs
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\obj\Debug\netstandard2.0\Risfond.File.Service.csproj.CopyComplete
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\obj\Debug\netstandard2.0\Risfond.File.Service.dll
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\obj\Debug\netstandard2.0\Risfond.File.Service.pdb
+D:\项目\NewProject\FileService\FileService\Risfond.File.Service\bin\Debug\netstandard2.0\Aliyun.OSS.Core.dll

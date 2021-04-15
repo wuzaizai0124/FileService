@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Risfond.File.Infrastructure\Risfond.File.Infrastructure.csproj" />
+    <ProjectReference Include="..\Risfond.File.Model\Risfond.File.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Aliyun.OSS.Core">
+      <HintPath>..\..\..\..\..\软件\Aliyun.OSS.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

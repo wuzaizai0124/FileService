@@ -1,0 +1,9 @@
+D:\项目\NewProject\FileService\FileService\Risfond.File.Infrastructure\bin\Debug\netstandard2.0\Risfond.File.Infrastructure.deps.json
+D:\项目\NewProject\FileService\FileService\Risfond.File.Infrastructure\bin\Debug\netstandard2.0\Risfond.File.Infrastructure.dll
+D:\项目\NewProject\FileService\FileService\Risfond.File.Infrastructure\bin\Debug\netstandard2.0\Risfond.File.Infrastructure.pdb
+D:\项目\NewProject\FileService\FileService\Risfond.File.Infrastructure\obj\Debug\netstandard2.0\Risfond.File.Infrastructure.csproj.CoreCompileInputs.cache
+D:\项目\NewProject\FileService\FileService\Risfond.File.Infrastructure\obj\Debug\netstandard2.0\Risfond.File.Infrastructure.AssemblyInfoInputs.cache
+D:\项目\NewProject\FileService\FileService\Risfond.File.Infrastructure\obj\Debug\netstandard2.0\Risfond.File.Infrastructure.AssemblyInfo.cs
+D:\项目\NewProject\FileService\FileService\Risfond.File.Infrastructure\obj\Debug\netstandard2.0\Risfond.File.Infrastructure.dll
+D:\项目\NewProject\FileService\FileService\Risfond.File.Infrastructure\obj\Debug\netstandard2.0\Risfond.File.Infrastructure.pdb
+D:\项目\NewProject\FileService\FileService\Risfond.File.Infrastructure\obj\Debug\netstandard2.0\Risfond.File.Infrastructure.csprojAssemblyReference.cache

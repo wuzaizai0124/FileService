@@ -1,0 +1,2 @@
+obj\Release\netcoreapp3.1/Image.cs \
+obj\Release\netcoreapp3.1/ImageGrpc.cs: Protos/image.proto

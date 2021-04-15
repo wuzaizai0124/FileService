@@ -1,0 +1,9 @@
+D:\项目\NewProject\FileService\FileService\Risfond.File.Polly\bin\Release\netstandard2.0\Risfond.File.Polly.deps.json
+D:\项目\NewProject\FileService\FileService\Risfond.File.Polly\bin\Release\netstandard2.0\Risfond.File.Polly.dll
+D:\项目\NewProject\FileService\FileService\Risfond.File.Polly\bin\Release\netstandard2.0\Risfond.File.Polly.pdb
+D:\项目\NewProject\FileService\FileService\Risfond.File.Polly\obj\Release\netstandard2.0\Risfond.File.Polly.csprojAssemblyReference.cache
+D:\项目\NewProject\FileService\FileService\Risfond.File.Polly\obj\Release\netstandard2.0\Risfond.File.Polly.csproj.CoreCompileInputs.cache
+D:\项目\NewProject\FileService\FileService\Risfond.File.Polly\obj\Release\netstandard2.0\Risfond.File.Polly.AssemblyInfoInputs.cache
+D:\项目\NewProject\FileService\FileService\Risfond.File.Polly\obj\Release\netstandard2.0\Risfond.File.Polly.AssemblyInfo.cs
+D:\项目\NewProject\FileService\FileService\Risfond.File.Polly\obj\Release\netstandard2.0\Risfond.File.Polly.dll
+D:\项目\NewProject\FileService\FileService\Risfond.File.Polly\obj\Release\netstandard2.0\Risfond.File.Polly.pdb

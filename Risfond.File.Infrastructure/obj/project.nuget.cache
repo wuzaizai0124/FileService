@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5gRPbsxY5j99OQzPurzu5agRe0mHH4ttOM8MrYn7NksNiLIkaY/ElwFRoUd84uDBAdsD26UDG+h4U6aqprp0A==",
+  "success": true,
+  "projectFilePath": "D:\\项目\\NewProject\\FileService\\FileService\\Risfond.File.Infrastructure\\Risfond.File.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mike\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

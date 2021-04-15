@@ -1,0 +1,9 @@
+D:\项目\NewProject\FileService\FileService\Risfond.File.ConsulUnitity\bin\Release\netstandard2.0\Risfond.File.ConsulUnitity.deps.json
+D:\项目\NewProject\FileService\FileService\Risfond.File.ConsulUnitity\bin\Release\netstandard2.0\Risfond.File.ConsulUnitity.dll
+D:\项目\NewProject\FileService\FileService\Risfond.File.ConsulUnitity\bin\Release\netstandard2.0\Risfond.File.ConsulUnitity.pdb
+D:\项目\NewProject\FileService\FileService\Risfond.File.ConsulUnitity\obj\Release\netstandard2.0\Risfond.File.ConsulUnitity.csprojAssemblyReference.cache
+D:\项目\NewProject\FileService\FileService\Risfond.File.ConsulUnitity\obj\Release\netstandard2.0\Risfond.File.ConsulUnitity.csproj.CoreCompileInputs.cache
+D:\项目\NewProject\FileService\FileService\Risfond.File.ConsulUnitity\obj\Release\netstandard2.0\Risfond.File.ConsulUnitity.AssemblyInfoInputs.cache
+D:\项目\NewProject\FileService\FileService\Risfond.File.ConsulUnitity\obj\Release\netstandard2.0\Risfond.File.ConsulUnitity.AssemblyInfo.cs
+D:\项目\NewProject\FileService\FileService\Risfond.File.ConsulUnitity\obj\Release\netstandard2.0\Risfond.File.ConsulUnitity.dll
+D:\项目\NewProject\FileService\FileService\Risfond.File.ConsulUnitity\obj\Release\netstandard2.0\Risfond.File.ConsulUnitity.pdb

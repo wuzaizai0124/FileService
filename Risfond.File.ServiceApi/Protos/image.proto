@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option csharp_namespace = "Risfond.File.ServiceApi.Protos";
+
+package risfond.api.images;
+
+service ImageManager{
+  rpc UploadImage (stream UploadImgRequest) returns (BaseResponse);
+}
+
+message BaseResponse{
+  bool Success=1;
+  string Message=2;
+  int32 Status=3;
+  string ImageUrl=4;
+}
+message UploadImgRequest{
+  required string Name=1;
+  string Path=2;
+  bytes FileStream=3;
+  option int32 Index=4;
+  ImgReturnType ReturnType=5;
+}
+enum ImgReturnType{
+  Url=0;  //·µ»ØURL
+  Key=1;  //·µ»ØKey
+}
